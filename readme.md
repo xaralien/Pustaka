@@ -1,6 +1,4 @@
-###################
-PUSTAKA
-###################
+# PUSTAKA
 
 Website Perpustakaan Online dimana user bisa meminjam buku melalui website!
 
@@ -9,7 +7,7 @@ Website Perpustakaan Online dimana user bisa meminjam buku melalui website!
 2. Mengembalikan Buku
 
 *******************
-ScreenShot
+## ScreenShot
 *******************
 Documentary Screenshot
 
