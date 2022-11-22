@@ -13,4 +13,4 @@ ScreenShot
 *******************
 Documentary Screenshot
 
-![menu-user](/assets/img/screenshot/pustaka.PNG)
+![menu-user](/assets/img/screenshot/menu-user.PNG)
